@@ -1,7 +1,17 @@
-img{
-    border:red 4px;
+
+div.col-2 img
+{
+    width: 200px;
+
 }
 
+div.col-6 ul 
+{
+    font-style: italic;
+    font-weight: lighter;
+}
 
-
- 
+.phone
+{
+    margin-top: 10px;
+}

@@ -1,5 +1,5 @@
 
-div.col-2 img
+ img
 {
     width: 200px;
 
@@ -14,4 +14,8 @@ div.col-6 ul
 .phone
 {
     margin-top: 10px;
+}
+.row
+{
+    margin-top:15px;
 }
